@@ -1,0 +1,5 @@
+HOST="82.25.121.124"
+PORT="3306"
+USER="u306182174_techpile_etl"
+PASSWORD="~Se5fQ^E7e"
+DATABASE="u306182174_techpile_etl"
