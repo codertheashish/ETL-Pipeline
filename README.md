@@ -149,12 +149,14 @@ python main.py
 
 **Ashish Kumar Prajapati**
 
-GitHub:<br>
-https://github.com/codertheashish <br>
-Linkedin : <br>
-https://linkedin.com/in/codertheashish
-
-
+- GitHub :
+[codertheashish](https://github.com/codertheashish)
+- LinkedIn :
+[codertheashish](https://www.linkedin.com/in/codertheashish/)
+- Instagram :
+[codertheashish](https://www.instagram.com/codertheashish/)
 ---
 
-## ⭐ If you found this project helpful, don't forget to give it a Star!
+⭐ If you like this portfolio, don't forget to give it a star on GitHub.
+
+<img width="601" height="437" alt="ETL Pipeline" src="https://github.com/user-attachments/assets/42e0995a-8e6e-486e-8903-beb060650931" />
