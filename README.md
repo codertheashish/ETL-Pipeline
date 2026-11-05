@@ -18,7 +18,7 @@ A Python-based ETL (Extract, Transform, Load) pipeline that extracts employee da
 - 📝 Logging support
 
 ---
-## Clone the Repository
+## Clone the Repo
 
 ```bash
 https://github.com/codertheashish/ETL-Pipeline.git
